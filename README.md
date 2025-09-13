@@ -7,9 +7,10 @@ Este repositório contém minha jornada de aprendizado em Java, com 1 exercício
 
 ## 📅 Progresso
 
-| Dia | Tema                     | Status |
-|-----|--------------------------|--------|
-| 01  | Hello World              | ✅     |
+| Dia | Tema                           | Status |
+|-----|--------------------------------|--------|
+| 01  | Hello World                    | ✅     |
+| 01  | Entrada de dados com scanner   | ✅     |
 ...
 ...
 ...
