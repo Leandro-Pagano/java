@@ -10,7 +10,8 @@ Este repositório contém minha jornada de aprendizado em Java, com 1 exercício
 | Dia | Tema                           | Status |
 |-----|--------------------------------|--------|
 | 01  | Hello World                    | ✅     |
-| 01  | Entrada de dados com scanner   | ✅     |
+| 02  | Entrada de dados com scanner   | ✅     |
+| 03  | Calc. Areaquad                 | ✅     |
 ...
 ...
 ...
